@@ -1,0 +1,22 @@
+{
+  "name": "space-tourism-challenge-frontend-mentor",
+  "version": "1.0.0",
+  "description": "Landing page for Space tourism from Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davnicolae/Space-tourism-challenge-Frontend-Mentor.git"
+  },
+  "author": "David Nicolae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davnicolae/Space-tourism-challenge-Frontend-Mentor/issues"
+  },
+  "homepage": "https://github.com/davnicolae/Space-tourism-challenge-Frontend-Mentor#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
