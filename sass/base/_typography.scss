@@ -1,5 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Bellefair&display=swap');
 
 html {
   font-family: 'Bellefair', serif;
+  background-color: blue;
+}
+
+h1 {
+  color: #fff;
+  font-size: 150px;
+}
+h2 {
+  font-size: 100px;
+}
+h3 {
+  font-size: 56px;
+}
+h4 {
+  font-size: 32px;
+}
+h5 {
+  font-size: 28px;
+  font-family: 'Bellefair', serif;
+}
+p {
+  font-size: 18px;
+  font-family: 'Barlow Condensed', sans-serif;
 }
