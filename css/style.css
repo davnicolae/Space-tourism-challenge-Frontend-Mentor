@@ -1,6 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Bellefair&display=swap");
+h1 {
+  color: #FFF;
+}
+
+body {
+  overflow-x: hidden; /* Hide scrollbars */
+}
+
 html {
   font-family: "Bellefair", serif;
   background-color: blue;
+  font-weight: 400;
 }
 
 h1 {
